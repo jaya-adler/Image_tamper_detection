@@ -19,4 +19,5 @@
 - [ ] Paper Published Images
 
 ![Monish_IJSDR_Confirmation](https://github.com/Monish-k/Image_tamper_detection/assets/60218655/09e52d34-cd14-4ab5-a93d-89e54e7d9756)
-![Monish_IJSDR_Certification](https://github.com/Monish-k/Image_tamper_detection/assets/60218655/c976e940-f604-4655-9e09-bafd01b5d170)
+<!--- and ![Monish_IJSDR_Certification](https://github.com/Monish-k/Image_tamper_detection/assets/60218655/c976e940-f604-4655-9e09-bafd01b5d170)--->
+![](https://github.com/jaya-adler/Image_tamper_detection/blob/a0cf282f8d8b2d07c21c018f78962777cefee07d/2024-08-17%2012_31_10-IJSDR2207076_Certificate_jaya.png)
